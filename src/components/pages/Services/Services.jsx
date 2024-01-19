@@ -8,7 +8,7 @@ const Services = () => {
       {/* heading */}
       <Heading
         title="Services"
-        subtitle="Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet."
+        subtitle="HTML5, CSS3, Vanila Js, React Js, Express Js, Spline, Tailwind CSS, Bootstrap, Daisy UI, Node js, Mongo DB, NEXT Js"
       />
 
       {/* Services Card  */}

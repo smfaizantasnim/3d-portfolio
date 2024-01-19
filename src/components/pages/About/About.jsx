@@ -9,7 +9,7 @@ const About = () => {
       {/* heading */}
       <Heading
         title="About"
-        subtitle="Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet."
+        subtitle="HTML5, CSS3, Vanila Js, React Js, Express Js, Spline, Tailwind CSS, Bootstrap, Daisy UI, Node js, Mongo DB, NEXT Js"
       />
 
       {/* Details section  */}
