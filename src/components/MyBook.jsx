@@ -16,13 +16,13 @@ import ProjectImg4 from "../assets/projects/travel-website.jpg";
 
 const ProjectData = [
   {
-    name: "Car Rental website",
+    name: "SM Car Rental website",
     description: "Complete Responsive website using React js and Tailwind CSS",
     image: ProjectImg1,
     previewLink: "https://car-rental-tcj.netlify.app/",
   },
   {
-    name: "Restaurant website",
+    name: "SM Restaurant website",
     description: "Complete Responsive website using React js and Tailwind CSS",
     image: ProjectImg2,
     previewLink: "https://foodies-zone.netlify.app/",
@@ -30,13 +30,13 @@ const ProjectData = [
 ];
 const ProjectData2 = [
   {
-    name: "Ecommerce website",
+    name: "SM Ecommerce website",
     description: "Complete Responsive website using React js and Tailwind CSS",
     image: ProjectImg3,
     previewLink: "https://shopsy-tcj.netlify.app/",
   },
   {
-    name: "Travel website",
+    name: "SM Travel website",
     description: "Complete Responsive website using React js and Tailwind CSS",
     image: ProjectImg4,
     previewLink: "https://travel-tcj.netlify.app/",

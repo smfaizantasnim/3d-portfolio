@@ -15,12 +15,11 @@ const FirstPage = () => {
             <div className="space-y-3">
               <p className="uppercase">Hello</p>
               <p className="text-4xl md:text-6xl font-bold text-black/80">
-                I'm Alex
+                I'm SM Elias
               </p>
               <p className="text-black/75 text-left">Full Stack Developer</p>
               <p className="text-black/75">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo
-                exercitationem tempora in nisi quos.
+              Elias's portfolio page is a captivating showcase of his diverse skills as a Full Stack MERN Developer. With a sleek design and interactive elements, it brilliantly highlights his proficiency in crafting modern, user-friendly web applications. Explore a visual journey of innovative projects, demonstrating his passion for creating impactful digital experiences.
               </p>
               <a
                 className="inline-block primary-btn "

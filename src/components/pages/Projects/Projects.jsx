@@ -7,8 +7,8 @@ const Projects = ({ ProjectData }) => {
     <div className="h-full page-shadow bg-white p-10">
       {/* heading */}
       <Heading
-        title="Projects"
-        subtitle="Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet."
+        title="My Works"
+        subtitle="Elias's projects blend creativity and functionality, utilizing MERN stack. Sleek UI, dynamic features, and smooth performance define his impactful web applications."
       />
 
       {/* Project section  */}

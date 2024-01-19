@@ -16,14 +16,11 @@ const About = () => {
 
       <div className="mt-10 text-slate-500">
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
-          quaerat ex obcaecati tenetur dolorum quasi rem! Vero consequuntur
-          perferendis architecto.
+        SM Elias is a skilled MERN stack developer, showcasing proficiency in MongoDB, Express.js, React, and Node.js. Dedicated to creating efficient, dynamic, and responsive web applications for optimal user experiences.
         </p>{" "}
         <br />
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim,
-          beatae.adipisicing elit. Enim, beatae.
+        SM Elias, a dynamic MERN stack maestro, crafts seamless digital experiences. Fluent in MongoDB, Express.js, React, and Node.js, he ingeniously engineers cutting-edge solutions for a vibrant web landscape.
         </p>
         {/* Social Links */}
         <div className="flex space-x-4 mt-10">
