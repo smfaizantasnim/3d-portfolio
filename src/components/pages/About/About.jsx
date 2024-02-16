@@ -24,8 +24,6 @@ const About = () => {
         </p>
         {/* Social Links */}
         <div className="flex space-x-4 mt-10">
-        <FacebookButton facebookLink="https://www.facebook.com/salehuddinmohammadelias/" />
-
           <MdFacebook className="social-btn" />
           <AiFillInstagram className="social-btn" />
           <AiFillGithub className="social-btn" />
@@ -33,10 +31,10 @@ const About = () => {
         </div>
         {/* Button Links */}
         <div className="flex space-x-4 mt-4">
-          <a href="https://drive.google.com/drive/folders/12q9zec8zgd_lksVZkVnW7d9Vjne6wSUb" className="primary-btn">
+          <a href="#" className="primary-btn">
             Download Resume
           </a>
-          <a href="www.smelias.com" target="_blank" className="outline-btn">
+          <a href="#" className="outline-btn">
             Contact
           </a>
         </div>
