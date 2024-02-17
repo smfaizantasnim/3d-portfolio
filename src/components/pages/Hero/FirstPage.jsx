@@ -12,7 +12,7 @@ const FirstPage = () => {
           </div>
           {/* text-container */}
           <div>
-            <div className="space-y-3 p-10  flex flex-wrap justify-center items-center">
+            <div className="space-y-3 p-10  flex justify-center ">
               <p className="uppercase">Hey,</p>
               <p className="text-4xl md:text-4xl font-bold text-black/80">
                 I'm SM Elias
@@ -23,7 +23,7 @@ const FirstPage = () => {
               </p>
 
 
-              <div className="flex flex-wrap justify-center items-center">
+              <div className="flex justify-center items-center">
               <a
                 className="inline-block primary-btn "
                 href="mailto:e01711706710@gmail.com" target="_blank"
