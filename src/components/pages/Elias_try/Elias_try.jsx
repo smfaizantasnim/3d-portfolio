@@ -5,12 +5,15 @@ import Heading from "../../HelperComp/Heading";
 
 const Elias_try = () => {
   return (
-    <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
+<div className="h-full page-shadow bg-white p-10">
+
+
+<div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
       <div className="md:flex">
         <div className="md:shrink-0">
           <img
             className="h-48 w-full object-cover md:h-full md:w-48"
-            src="https://www.canva.com/design/DAF9EvW6YUU/ico0G4FhJQ7h9U0Cre8PGg/edit?utm_content=DAF9EvW6YUU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            src="./src/assets/backcover.png"
             alt="Modern building architecture"
           />
         </div>
@@ -21,6 +24,9 @@ const Elias_try = () => {
         </div>
       </div>
     </div>
+
+</div>
+
   );
 };
 
