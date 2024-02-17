@@ -73,7 +73,7 @@ function MyBook(props) {
         <Elias_blog />
       </Page>
       <Page number={9}>
-        <Elias_try/>
+        < Elias_try />
       </Page>
       <Page number={10}>
         <Cover coverImg={EndImg} title="Thanks SM Elias" />

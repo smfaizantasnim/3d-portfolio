@@ -14,7 +14,9 @@ const Elias_try = () => {
           <img
             className="h-48 w-full object-cover md:h-full md:w-48"
             // src="./src/assets/backcover.png"
-            src="../../../assets/person2.png"
+            // src="../../../assets/person2.png"
+
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT60FMndiOx7N7c5oAxKqCoSuyVN6ls75c7W3Q9QbCH5g&s"
             alt="Modern building architecture"
           />
         </div>
