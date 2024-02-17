@@ -22,7 +22,7 @@ const FirstPage = () => {
               Elias's portfolio captivates, showcasing his prowess as a Full Stack MERN Developer. With sleek design and interactive elements, it highlights his skill in crafting modern, user-friendly web apps. Explore his innovative projects, a visual testament to his passion for impactful digital experiences.
               </p>
               <a
-                className="primary-btn flex flex-wrap justify-center items-center"
+                className="inline-block primary-btn flex flex-wrap justify-center items-center"
                 href="mailto:e01711706710@gmail.com" target="_blank"
               >
                 {" "}
