@@ -13,6 +13,7 @@ import ProjectImg1 from "../assets/projects/car-rental.jpg";
 import ProjectImg2 from "../assets/projects/restaurant.jpg";
 import ProjectImg3 from "../assets/projects/ecommerce.jpg";
 import ProjectImg4 from "../assets/projects/travel-website.jpg";
+import Elias_blog from "./pages/Elias_blog/Elias_blog.jsx";
 
 const ProjectData = [
   {
@@ -68,7 +69,7 @@ function MyBook(props) {
         <Projects ProjectData={ProjectData2} />
       </Page>
       <Page number={8}>
-        <Cover coverImg={EndImg} title="" />
+        <Elias_blog />
       </Page>
       <Page number={9}>
         <Cover coverImg={EndImg} title="" />
