@@ -31,16 +31,16 @@ const About = () => {
             </div> */}
 
 <div className="flex space-x-4 mt-10">
-  <a href="https://www.facebook.com/your-facebook-profile">
+  <a href="https://www.facebook.com/salehuddinmohammadelias" target="_blank">
     <MdFacebook className="social-btn" />
   </a>
-  <a href="https://www.instagram.com/your-instagram-profile">
+  <a href="https://www.instagram.com/your-instagram-profile" target="_blank">
     <AiFillInstagram className="social-btn" />
   </a>
-  <a href="https://github.com/your-github-profile">
+  <a href="https://github.com/smfaizantasnim" target="_blank">
     <AiFillGithub className="social-btn" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
     <AiFillLinkedin className="social-btn" />
   </a>
 </div>
