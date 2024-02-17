@@ -16,21 +16,35 @@ const About = () => {
 
       <div className="mt-10 text-slate-500">
         <p>
-        SM Elias is a skilled MERN stack developer, showcasing proficiency in MongoDB, Express.js, React, and Node.js. Dedicated to creating efficient, dynamic, and responsive web applications for optimal user experiences.
+        Embark on a journey of digital excellence with SM Elias, the visionary MERN stack maestro. With mastery in MongoDB, Express.js, React, and Node.js, he pioneers dynamic solutions, shaping the future of the web.
         </p>{" "}
         <br />
         <p>
-        SM Elias, a dynamic MERN stack maestro, crafts seamless digital experiences. Fluent in MongoDB, Express.js, React, and Node.js, he ingeniously engineers cutting-edge solutions for a vibrant web landscape.
+        Step into the realm of digital innovation with SM Elias, a master of the MERN stack. With expertise in MongoDB, Express.js, React, and Node.js, he crafts dynamic, cutting-edge solutions that redefine the web landscape
         </p>
         {/* Social Links */}
-        <div className="flex space-x-4 mt-10">
+        {/* <div className="flex space-x-4 mt-10">
           <MdFacebook className="social-btn" />
           <AiFillInstagram className="social-btn" />
           <AiFillGithub className="social-btn" />
           <AiFillLinkedin className="social-btn" />
-          <FacebookButton className="social-btn" facebookLink="https://www.facebook.com/salehuddinmohammadelias/" />
+            </div> */}
 
-        </div>
+<div className="flex space-x-4 mt-10">
+  <a href="https://www.facebook.com/your-facebook-profile">
+    <MdFacebook className="social-btn" />
+  </a>
+  <a href="https://www.instagram.com/your-instagram-profile">
+    <AiFillInstagram className="social-btn" />
+  </a>
+  <a href="https://github.com/your-github-profile">
+    <AiFillGithub className="social-btn" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <AiFillLinkedin className="social-btn" />
+  </a>
+</div>
+
         {/* Button Links */}
         <div className="flex space-x-4 mt-4">
           <a href="https://drive.google.com/file/d/1TfCLgWz8eioIMdzQGpipGGWekyGv73EO/view?usp=sharing" className="primary-btn">
