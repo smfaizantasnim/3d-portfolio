@@ -12,7 +12,7 @@ const FirstPage = () => {
           </div>
           {/* text-container */}
           <div>
-            <div className="space-y-3 p-10  flex justify-center items-center">
+            <div className="space-y-3 p-10 ">
               <p className="uppercase">Hey,</p>
               <p className="text-4xl md:text-4xl font-bold text-black/80">
                 I'm SM Elias
@@ -22,8 +22,7 @@ const FirstPage = () => {
               Elias's portfolio captivates, showcasing his prowess as a Full Stack MERN Developer. With sleek design and interactive elements, it highlights his skill in crafting modern, user-friendly web apps. Explore his innovative projects, a visual testament to his passion for impactful digital experiences.
               </p>
 
-
-              <div className="flex justify-center items-center">
+              <div className="flex flex-wrap justify-center items-center">
               <a
                 className="inline-block primary-btn "
                 href="mailto:e01711706710@gmail.com" target="_blank"
@@ -33,7 +32,6 @@ const FirstPage = () => {
               </a>
               </div>
              
-
             </div>
           </div>
         </div>
