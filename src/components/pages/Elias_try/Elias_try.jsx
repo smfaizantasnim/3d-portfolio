@@ -13,7 +13,8 @@ const Elias_try = () => {
         <div className="md:shrink-0">
           <img
             className="h-48 w-full object-cover md:h-full md:w-48"
-            src="./src/assets/backcover.png"
+            // src="./src/assets/backcover.png"
+            src="../../../assets/person2.png"
             alt="Modern building architecture"
           />
         </div>
