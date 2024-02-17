@@ -31,7 +31,7 @@ const About = () => {
         </div>
         {/* Button Links */}
         <div className="flex space-x-4 mt-4">
-          <a href="#" className="primary-btn">
+          <a href="https://drive.google.com/file/d/1TfCLgWz8eioIMdzQGpipGGWekyGv73EO/view?usp=sharing" className="primary-btn">
             Download Resume
           </a>
           <a href="#" className="outline-btn">
