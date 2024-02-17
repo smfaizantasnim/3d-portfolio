@@ -12,7 +12,7 @@ const FirstPage = () => {
           </div>
           {/* text-container */}
           <div>
-            <div className="space-y-3">
+            <div className="space-y-3 p-10">
               <p className="uppercase">Hey,</p>
               <p className="text-4xl md:text-4xl font-bold text-black/80">
                 I'm SM Elias
