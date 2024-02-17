@@ -28,6 +28,8 @@ const About = () => {
           <AiFillInstagram className="social-btn" />
           <AiFillGithub className="social-btn" />
           <AiFillLinkedin className="social-btn" />
+          <FacebookButton className="social-btn" facebookLink="https://www.facebook.com/salehuddinmohammadelias/" />
+
         </div>
         {/* Button Links */}
         <div className="flex space-x-4 mt-4">
