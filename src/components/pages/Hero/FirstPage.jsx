@@ -14,7 +14,7 @@ const FirstPage = () => {
           <div>
             <div className="space-y-3">
               <p className="uppercase">Hey,</p>
-              <p className="text-4xl md:text-6xl font-bold text-black/80">
+              <p className="text-4xl md:text-4xl font-bold text-black/80">
                 I'm SM Elias
               </p>
               <p className="text-black/75 text-left">Full Stack Developer</p>
