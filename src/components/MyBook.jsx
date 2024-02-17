@@ -68,13 +68,13 @@ function MyBook(props) {
         <Projects ProjectData={ProjectData2} />
       </Page>
       <Page number={8}>
-        <Cover coverImg={EndImg} title="Thanks S M Elias" />
+        <Cover coverImg={EndImg} title="" />
       </Page>
       <Page number={9}>
-        <Cover coverImg={EndImg} title="Thanks" />
+        <Cover coverImg={EndImg} title="" />
       </Page>
       <Page number={10}>
-        <Cover coverImg={EndImg} title="Thanks" />
+        <Cover coverImg={EndImg} title="Thanks SM Elias" />
       </Page>
     </HTMLFlipBook>
   );
