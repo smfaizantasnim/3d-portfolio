@@ -6,26 +6,26 @@ import { MdSecurity } from "react-icons/md";
 
 const ServicesData = [
   {
-    name: "UX research",
-    description: "Lorem ipsum dolor sit amet.",
+    name: "Redux",
+    description: "Redux for state management",
     icon: <AiFillLayout className="text-4xl" />,
     bgColor: "bg-blue-500/70",
   },
   {
     name: "App Development",
-    description: "Lorem ipsum dolor sit.",
+    description: "Crafting intuitive and robust apps tailored to your needs. Excellence guaranteed.",
     icon: <MdOutlinePhoneAndroid className="text-4xl" />,
     bgColor: "bg-lime-500/70",
   },
   {
     name: "Web App Development",
-    description: "Lorem ipsum dolor sit amet.",
+    description: "Creating dynamic websites with modern design and seamless functionality. Elevate your online presence.",
     icon: <HiMiniComputerDesktop className="text-4xl" />,
     bgColor: "bg-fuchsia-500/70",
   },
   {
     name: "Security",
-    description: "Lorem ipsum dolor sit amet consectetur.",
+    description: "Fortifying digital landscapes with cutting-edge security solutions. Your safety, our priority.",
     icon: <MdSecurity className="text-4xl" />,
     bgColor: "bg-orange-500/70",
   },
