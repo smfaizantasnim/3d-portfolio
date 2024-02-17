@@ -30,31 +30,52 @@ const About = () => {
           <AiFillLinkedin className="social-btn" />
             </div> */}
 
-<div className="flex space-x-4 mt-10">
-  <a href="https://www.facebook.com/salehuddinmohammadelias" target="_blank">
-    <MdFacebook className="social-btn" />
-  </a>
-  <a href="https://www.instagram.com/your-instagram-profile" target="_blank">
-    <AiFillInstagram className="social-btn" />
-  </a>
-  <a href="https://github.com/smfaizantasnim" target="_blank">
-    <AiFillGithub className="social-btn" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-    <AiFillLinkedin className="social-btn" />
-  </a>
-</div>
-
-        {/* Button Links */}
-        <div className="flex space-x-4 mt-4">
-          <a href="https://drive.google.com/file/d/1TfCLgWz8eioIMdzQGpipGGWekyGv73EO/view?usp=sharing" className="primary-btn">
-            Download Resume
-          </a>
-          <a href="https://www.facebook.com/salehuddinmohammadelias />
-" className="outline-btn">
-            Contact
-          </a>
-        </div>
+<div className="flex flex-wrap justify-center gap-4 mt-10">
+        <a
+          href="https://www.facebook.com/salehuddinmohammadelias"
+          target="_blank"
+          className="social-btn"
+        >
+          <MdFacebook />
+        </a>
+        <a
+          href="https://www.instagram.com/your-instagram-profile"
+          target="_blank"
+          className="social-btn"
+        >
+          <AiFillInstagram />
+        </a>
+        <a
+          href="https://github.com/smfaizantasnim"
+          target="_blank"
+          className="social-btn"
+        >
+          <AiFillGithub />
+        </a>
+        <a
+          href="https://www.linkedin.com/in/your-linkedin-profile"
+          target="_blank"
+          className="social-btn"
+        >
+          <AiFillLinkedin />
+        </a>
+      </div>
+      {/* Button Links */}
+      <div className="flex flex-col md:flex-row justify-center items-center gap-4 mt-4">
+        <a
+          href="https://drive.google.com/file/d/1TfCLgWz8eioIMdzQGpipGGWekyGv73EO/view?usp=sharing"
+          className="primary-btn"
+        >
+          Download Resume
+        </a>
+        <a
+          href="https://www.facebook.com/salehuddinmohammadelias"
+          target="_blank"
+          className="outline-btn"
+        >
+          Contact
+        </a>
+      </div>
       </div>
     </div>
   );
