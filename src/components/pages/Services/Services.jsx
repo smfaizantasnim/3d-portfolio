@@ -8,7 +8,7 @@ const Services = () => {
       {/* heading */}
       <Heading
         title="Services"
-        subtitle="HTML5, CSS3, Vanila Js, React Js, Express Js, Spline, Tailwind CSS, Bootstrap, Daisy UI, Node js, Mongo DB, NEXT Js"
+        subtitle="Experience digital transformation with SM Elias, a MERN stack virtuoso. Expert in MongoDB, Express.js, React, and Node.js, he architects dynamic solutions reshaping the web."
       />
 
       {/* Services Card  */}
