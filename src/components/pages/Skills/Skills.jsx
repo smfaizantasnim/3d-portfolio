@@ -17,9 +17,9 @@ const Skills = () => {
           </div>
         </div>
         {/* skills section */}
-        <div className="space-y-5 ">
-          <SkillsLevel skillName="HTML" percentage={"90%"} />
-          <SkillsLevel skillName="CSS" percentage="95%" />
+        <div className="space-y-5 p-4">
+          <SkillsLevel skillName="HTML5" percentage={"95%"} />
+          <SkillsLevel skillName="CSS3" percentage="95%" />
           <SkillsLevel skillName="Tailwind" percentage="80%" />
           <SkillsLevel skillName="JavaScript" percentage="95%" />
           <SkillsLevel skillName="Node JS" percentage="80%" />
