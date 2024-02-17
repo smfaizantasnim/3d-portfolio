@@ -13,13 +13,13 @@ const FirstPage = () => {
           {/* text-container */}
           <div>
             <div className="space-y-3">
-              <p className="uppercase">Hello</p>
+              <p className="uppercase">Hey,</p>
               <p className="text-4xl md:text-6xl font-bold text-black/80">
                 I'm SM Elias
               </p>
               <p className="text-black/75 text-left">Full Stack Developer</p>
               <p className="text-black/75">
-              Elias's portfolio page is a captivating showcase of his diverse skills as a Full Stack MERN Developer. With a sleek design and interactive elements, it brilliantly highlights his proficiency in crafting modern, user-friendly web applications. Explore a visual journey of innovative projects, demonstrating his passion for creating impactful digital experiences.
+              Elias's portfolio captivates, showcasing his prowess as a Full Stack MERN Developer. With sleek design and interactive elements, it highlights his skill in crafting modern, user-friendly web apps. Explore his innovative projects, a visual testament to his passion for impactful digital experiences.
               </p>
               <a
                 className="inline-block primary-btn "
