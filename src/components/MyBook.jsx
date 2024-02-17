@@ -14,6 +14,7 @@ import ProjectImg2 from "../assets/projects/restaurant.jpg";
 import ProjectImg3 from "../assets/projects/ecommerce.jpg";
 import ProjectImg4 from "../assets/projects/travel-website.jpg";
 import Elias_blog from "./pages/Elias_blog/Elias_blog.jsx";
+import Elias_try from "./pages/Elias_try/Elias_try.jsx";
 
 const ProjectData = [
   {
@@ -72,7 +73,7 @@ function MyBook(props) {
         <Elias_blog />
       </Page>
       <Page number={9}>
-        <Cover coverImg={EndImg} title="" />
+        <Elias_try/>
       </Page>
       <Page number={10}>
         <Cover coverImg={EndImg} title="Thanks SM Elias" />
