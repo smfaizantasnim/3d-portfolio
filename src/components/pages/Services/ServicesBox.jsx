@@ -18,10 +18,18 @@ const ServicesData = [
     bgColor: "bg-lime-500/70",
   },
   {
-    name: "Web App Development",
-    description: "Creating dynamic websites with modern design and seamless functionality. Elevate your online presence.",
-    icon: <HiMiniComputerDesktop className="text-4xl" />,
-    bgColor: "bg-fuchsia-500/70",
+    // name: "Web App Development",
+    // description: "Creating dynamic websites with modern design and seamless functionality. Elevate your online presence.",
+    // icon: <HiMiniComputerDesktop className="text-4xl" />,
+    // bgColor: "bg-fuchsia-500/70",
+    
+      name: "Web App Development",
+      description: "Creating dynamic websites with modern design and seamless functionality. Elevate your online presence.",
+      icon: <HiMiniComputerDesktop className="text-4xl" />,
+      bgColor: "bg-fuchsia-500/70",
+      className: "text-justify"
+    
+    
   },
   {
     name: "Security",
