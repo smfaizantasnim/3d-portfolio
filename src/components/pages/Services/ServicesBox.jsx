@@ -1,6 +1,6 @@
 import React from "react";
 import { AiFillLayout } from "react-icons/ai";
-import { MdOutlinePhoneAndroid } from "react-icons/md";
+import { MdFormatAlignJustify, MdOutlinePhoneAndroid } from "react-icons/md";
 import { HiMiniComputerDesktop } from "react-icons/hi2";
 import { MdSecurity } from "react-icons/md";
 
@@ -28,8 +28,6 @@ const ServicesData = [
       icon: <HiMiniComputerDesktop className="text-4xl" />,
       bgColor: "bg-fuchsia-500/70",
       className: "text-justify"
-    
-    
   },
   {
     name: "Security",
