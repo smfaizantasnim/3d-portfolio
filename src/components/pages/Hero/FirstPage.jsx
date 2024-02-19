@@ -18,13 +18,16 @@ const FirstPage = () => {
                 I'm SM Elias
               </p>
               <p className="text-black/75 text-left">Full Stack Developer</p>
-              <p className="text-black/75 text-justify">
-                Elias's portfolio captivates, showcasing his prowess as a Full
+              <p className="text-black/75 text-justify"> 
+              <pre>
+              Elias's portfolio captivates, showcasing his prowess as a Full
                 Stack MERN Developer. With sleek design and interactive
                 elements, it highlights his skill in crafting modern,
                 user-friendly web apps. Explore his innovative projects, a
                 visual testament to his passion for impactful digital
                 experiences.
+              </pre>
+               
               </p>
 
               <div className="flex flex-wrap justify-center items-center">

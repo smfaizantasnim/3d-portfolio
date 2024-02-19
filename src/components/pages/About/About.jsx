@@ -14,7 +14,7 @@ const About = () => {
 
       {/* Details section  */}
 
-      <div className="mt-10 text-slate-500">
+      <div className="mt-10 text-slate-500 text-justify">
         <p className="text-justify">
         Embark on a journey of digital excellence with SM Elias, the visionary MERN stack maestro. With mastery in MongoDB, Express.js, React, and Node.js, he pioneers dynamic solutions, shaping the future of the web.
         </p>{" "}
